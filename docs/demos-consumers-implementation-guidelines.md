@@ -5,6 +5,10 @@
 
 Consumers MUST implement those [wireframes](https://www.drupal.org/node/2818741#comment-12114776)
 
+## designs
+
+The official design from the out of the box initiative can be found on [https://www.drupal.org/node/2900720](https://www.drupal.org/node/2900720)
+
 ## Hosting, CSS & html, Urls structure, Models, Architecture, Cache, Service workers etc ...
 
 Consumers are free to choose tools which fits best their projects concerning those points; because there is a wide variety of consumers with sometimes very different needs.
@@ -34,14 +38,14 @@ Minimalistic package that transforms an object to a json api query string, use t
 
 ## API endpoints usage examples :
 
-The public API endpoint is : [http://live-contentacms.pantheonsite.io/api](http://live-contentacms.pantheonsite.io/api)
+The public API endpoint is : [https://live-contentacms.pantheonsite.io/api](https://live-contentacms.pantheonsite.io/api)
 there is also a dev version (more unstable) : [https://dev-contentacms.pantheonsite.io/api](https://dev-contentacms.pantheonsite.io/api)
 
 A list of important resources:
 
-Recipes: [http://live-contentacms.pantheonsite.io/api/recipes](http://live-contentacms.pantheonsite.io/api/recipes)
+Recipes: [https://live-contentacms.pantheonsite.io/api/recipes](https://live-contentacms.pantheonsite.io/api/recipes)
 
-Recipes categories : [http://live-contentacms.pantheonsite.io/api/categories](http://live-contentacms.pantheonsite.io/api/categories)
+Recipes categories : [https://live-contentacms.pantheonsite.io/api/categories](https://live-contentacms.pantheonsite.io/api/categories)
 
 # Pages documentation
 
